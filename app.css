@@ -87,7 +87,7 @@ input{
 	height: 400px;
 	width: 200px;
 	display: inline-block;
-	background-image: url(pexels.jjpeg);
+	background-image: url(pexels.jpeg);
 	background-size: contain;
 	border:2px solid black;
 	box-shadow: 0 0 1rem rgba(0 0 0.1);
